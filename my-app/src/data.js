@@ -1,0 +1,39 @@
+const data=[
+    {
+        "id":1,
+        "type":"child",
+        "img":"./images/child.jpeg",
+        "age":"6-12",
+        "email":"child@gmail.com",
+        "location":"online",
+        "openSpot":0
+    },
+    {
+        "id":2,
+        "type":"junior",
+        "img":"./images/gym.jpeg",
+        "age":"13-17",
+        "email":"junior@gmail.com",
+        "location":"online",
+        "openSpot":20
+    },
+    {
+        "id":3,
+        "type":"adult",
+        "img":"./images/ladius.jpeg",
+        "age":"18-55",
+        "email":"adult@gmail.com",
+        "location":"North way",
+        "openSpot":34
+    },
+    {
+        "id":4,
+        "type":"senior",
+        "img":"./images/gen.jpeg",
+        "age":"56-70",
+        "email":"senior@gmail.com",
+        "location":"online",
+        "openSpot":0
+    }
+]
+export default data;
